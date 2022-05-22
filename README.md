@@ -1,5 +1,8 @@
-# proyectoazteca
+# Tenocht software e inovacion presenta 
+# proyectoazteca 
+
 desarrollo de proyecto azteca
+
 ## Creado por :
 Hernandez Cervantes Derek Iván
 Ricardo Dominguez Villalobos 
